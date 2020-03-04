@@ -5,7 +5,7 @@ A simple dashboard made using RecyclerView with data loaded from API endpoints u
 * Kotlin ✅
 * Single RecyclerView ✅
 * API Requests using Volley ✅
-* MVC ✅
+* MVM ✅
 
 # ScreenShots
 
